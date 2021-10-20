@@ -1,5 +1,5 @@
 # Nitrogen-Tank-Fill-Application
-This application is used to fill nitrogen tanks with liquid nitrogen in the Chemistry Department at Texas A&M University
+This application is used to fill nitrogen tanks with liquid nitrogen
 
 This application was adapted from the previous application written in Visual Basic
 
